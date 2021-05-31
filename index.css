@@ -29,6 +29,7 @@
 }
 .inputContainer>input{
   border: none;
+  outline: none;
 }
 .postcardFooter {
   padding: 0 0 50px 0;
