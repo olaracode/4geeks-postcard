@@ -1,0 +1,37 @@
+.postcardContainer {
+  border: 1px solid black;
+  width: 40%;
+}
+
+.postcardHeader {
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo > img {
+  height: 80px;
+}
+.postcardBody {
+  display: flex;
+  padding: 15px;
+  justify-content: space-between;
+}
+.descripcion > p {
+  width: 80%;
+}
+.descripcion {
+  padding: 0;
+}
+.inputContainer {
+  padding: 5px;
+  border-bottom: 1px solid black;
+}
+.inputContainer>input{
+  border: none;
+}
+.postcardFooter {
+  padding: 0 0 50px 0;
+  width: 160px;
+  margin: auto;
+}
